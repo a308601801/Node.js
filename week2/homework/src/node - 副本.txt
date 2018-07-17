@@ -1,0 +1,6 @@
+{"num":1,"value":"apple"}
+{"num":2,"value":"apple"}
+{"num":3,"value":"banana"}
+{"num":4,"value":"banana"}
+{"num":5,"value":"eat apple"}
+{"num":6,"value":"eat apple and banana"}
